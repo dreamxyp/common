@@ -1,24 +1,24 @@
 {
-  "name": "ethereum-common",
+  "name": "happyucjs-common",
   "version": "0.2.1",
-  "description": "Resources common to all Ethereum implementations",
+  "description": "Resources common to all HappyUC implementations",
   "main": "index.js",
   "scripts": {
     "test": "node tests/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ethereumjs/common.git"
+    "url": "git+https://github.com/happyucjs/happyucjs-common.git"
   },
   "keywords": [
-    "ethereum"
+    "happyuc"
   ],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ethereumjs/common/issues"
+    "url": "https://github.com/happyucjs/happyucjs-common/issues"
   },
-  "homepage": "https://github.com/ethereumjs/common",
+  "homepage": "https://github.com/happyucjs/happyucjs-common/",
   "devDependencies": {
     "tape": "^4.2.0"
   },
