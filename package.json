@@ -22,10 +22,5 @@
   "devDependencies": {
     "tape": "^4.2.0"
   },
-  "maintainers": [
-    {
-      "name": "null_radix",
-      "email": "mjbecze@gmail.com"
-    }
-  ]
+  "maintainers": []
 }
