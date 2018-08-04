@@ -1,1 +1,1 @@
-module.exports = require('./params.json')
+module.exports = require('./params.json');

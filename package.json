@@ -1,26 +1,26 @@
 {
-  "name": "happyucjs-common",
-  "version": "1.0.1",
-  "description": "Resources common to all HappyUC implementations",
+  "name": "icjs-common",
+  "version": "0.0.1",
+  "description": "Resources common to all IrChain implementations",
   "main": "index.js",
   "scripts": {
     "test": "node tests/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/happyucjs/happyucjs-common.git"
+    "url": "git+https://github.com/icjs/icjs-common.git"
   },
   "keywords": [
-    "happyuc"
+    "irchain"
   ],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/happyucjs/happyucjs-common/issues"
+    "url": "https://github.com/icjs/icjs-common/issues"
   },
-  "homepage": "https://github.com/happyucjs/happyucjs-common/",
+  "homepage": "https://github.com/icjs/icjs-common/",
   "devDependencies": {
-    "tape": "^4.2.0"
+    "tape": "^4.9.1"
   },
   "maintainers": []
 }

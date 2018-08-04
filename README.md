@@ -1,9 +1,9 @@
 # SYNOPSIS
 
-[![Build Status](https://img.shields.io/travis/happyucjs/common.svg?branch=master&style=flat-square)](https://travis-ci.org/happyucjs/common)
+[![Build Status](https://img.shields.io/travis/icjs/common.svg?branch=master&style=flat-square)](https://travis-ci.org/icjs/common)
 
 # COMMON
-Resources common to all HappyUC implementations
+Resources common to all IrChain implementations
 
 # INSTALL
-`npm install happyucjs-common`
+`npm install icjs-common`
