@@ -13,7 +13,7 @@
   "keywords": [
     "irchain"
   ],
-  "author": "",
+  "author": "IrChain Team <contact@irchain.io>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/icjs/icjs-common/issues"
@@ -22,5 +22,8 @@
   "devDependencies": {
     "tape": "^4.9.1"
   },
-  "maintainers": []
+  "maintainers": [],
+  "directories": {
+    "test": "tests"
+  }
 }
